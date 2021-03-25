@@ -1,0 +1,7 @@
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\bin\Debug\CheckoutApplicaiton.exe.config
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\bin\Debug\CheckoutApplicaiton.exe
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\bin\Debug\CheckoutApplicaiton.pdb
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\obj\Debug\CheckoutApplicaiton.csprojAssemblyReference.cache
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\obj\Debug\CheckoutApplicaiton.csproj.CoreCompileInputs.cache
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\obj\Debug\CheckoutApplicaiton.exe
+C:\AssignMents\CheckoutApp\CheckoutApplicaiton\obj\Debug\CheckoutApplicaiton.pdb

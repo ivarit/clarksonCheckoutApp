@@ -1,0 +1,13 @@
+C:\AssignMents\CheckoutApp\CheckoutApp\bin\Debug\netcoreapp3.1\CheckoutApp.exe
+C:\AssignMents\CheckoutApp\CheckoutApp\bin\Debug\netcoreapp3.1\CheckoutApp.deps.json
+C:\AssignMents\CheckoutApp\CheckoutApp\bin\Debug\netcoreapp3.1\CheckoutApp.runtimeconfig.json
+C:\AssignMents\CheckoutApp\CheckoutApp\bin\Debug\netcoreapp3.1\CheckoutApp.runtimeconfig.dev.json
+C:\AssignMents\CheckoutApp\CheckoutApp\bin\Debug\netcoreapp3.1\CheckoutApp.dll
+C:\AssignMents\CheckoutApp\CheckoutApp\bin\Debug\netcoreapp3.1\CheckoutApp.pdb
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.csprojAssemblyReference.cache
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.AssemblyInfoInputs.cache
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.AssemblyInfo.cs
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.csproj.CoreCompileInputs.cache
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.dll
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.pdb
+C:\AssignMents\CheckoutApp\CheckoutApp\obj\Debug\netcoreapp3.1\CheckoutApp.genruntimeconfig.cache
